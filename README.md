@@ -1,1 +1,3 @@
 # wijsheid
+
+> aka TIL findings
